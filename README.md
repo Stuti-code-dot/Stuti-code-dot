@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Stuti Jain
 
 🎓 AI/ML Engineer | GenAI, Forecasting, Healthcare AI  
-🧪 Ex-INRIA, MED-EL, Publicis Sapient | PhD work at University of Gothenburg  
+🧪 Ex-INRIA, MED-EL, Publicis Sapient  
 
 ---
 
