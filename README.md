@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Stuti Jain
 
 🎓 AI/ML Engineer | GenAI, Forecasting, Healthcare AI  
-📍 Based in Gothenburg | Open to roles in Germany, Switzerland, Austria, US, India  
 🧪 Ex-INRIA, MED-EL, Publicis Sapient | PhD work at University of Gothenburg  
 
 ---
