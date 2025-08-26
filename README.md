@@ -1,29 +1,53 @@
-# 👋 Hi, I'm Stuti Jain
+# Hi, I'm Stuti Jain
 
-🎓 AI/ML Engineer | GenAI, Forecasting, Healthcare AI  
-🧪 Ex-INRIA, MED-EL, Publicis Sapient  
-
----
-
-### 🔧 What I Work On
-
-- **🧠 GenAI + LLMs:** MiniGPT, RFP document parsing, prompt engineering  
-- **📊 Forecasting:** Time series models (ARIMA, fbProphet, XGBoost), CLV, churn  
-- **💊 Healthcare AI:** Cochlear implant signal ML, genomics-based cancer prediction  
-- **🛠️ MLOps & Deployment:** Airflow, Docker, Git, Power BI, AWS, Azure  
+AI/ML Engineer & Data Scientist | Forecasting • GenAI • Healthcare AI  
+Ex-INRIA | MED-EL | Publicis Sapient | University of Gothenburg  
+Gothenburg, Sweden | stuti.jain2916@gmail.com | [LinkedIn](https://linkedin.com/in/stutijain)
 
 ---
 
-### 📌 Featured Repositories
+## About Me
 
-- [`genai-rfp-pipeline`](https://github.com/your-username/genai-rfp-pipeline): Transformer-based document parser with SHAP integration and deployment automation  
-- [`minigpt-prototype`](https://github.com/your-username/minigpt-prototype): Vision-language alignment demo with tokenizer tweaking and multi-modal prompts  
-- [`cochlear-telemetry-ml`](https://github.com/your-username/cochlear-telemetry-ml): CNN/LSTM-based implant anomaly detector with SHAP dashboards  
-- [`drug-discovery-inria`](https://github.com/your-username/drug-discovery-inria): Matrix factorization on graph-regularized virus-host-drug data
+I specialize in building and deploying **production-grade AI systems** that combine the depth of research with real-world impact. My work spans **biomedical AI**, **generative AI**, and **time-series forecasting** — always with a strong focus on scalability, explainability, and deployment.
+
+Whether it's deploying transformer pipelines for early cancer detection, forecasting demand across 2M+ retail SKUs, or automating contract analysis with RAG and SHAP, I care deeply about **solving real problems with elegant machine learning systems**.
 
 ---
 
-### 📫 Let’s Connect
+## Core Focus Areas
 
-- [LinkedIn](https://linkedin.com/in/stuti-jain-73a2b1170)  
-- 📩 stuti.jain2916@gmail.com  
+- **GenAI + LLMs**: Retrieval-Augmented Generation (RAG), Hugging Face, LangChain, contract Q&A systems, MiniGPT distillation  
+- **Forecasting**: ARIMA, fbProphet, LSTM, XGBoost for energy, retail, and shipment demand prediction  
+- **Biomedical AI**: Signal anomaly detection, genomic ML pipelines, implant telemetry algorithms, SHAP-based explainability  
+- **MLOps & Deployment**: Airflow, Docker, GitHub Actions, MLflow, Power BI, AWS (SageMaker, Lambda), Azure ML  
+
+---
+
+## Featured Repositories
+
+### [`llm-knowledge-distillation`](https://github.com/Stuti-code-dot/llm-knowledge-distillation)
+Lightweight GPT-style model implemented via **teacher–student distillation**. Benchmarked decoding strategies (greedy, beam, sampling) on 10M+ tokens to achieve **25% faster inference with <2% accuracy loss**. Focus on inference–efficiency trade-offs.
+
+**Keywords**: Distillation, Hugging Face, Transformers, MiniGPT, PyTorch
+
+---
+
+### [`legal-docs-rag`](https://github.com/Stuti-code-dot/legal-docs-rag)
+Production-ready **retrieval-augmented generation (RAG)** pipeline for 50K+ legal/contract documents. Combines dense vector retrieval with transformer-based Q&A, using FAISS + LangChain. **Reduced retrieval latency by 70%** vs keyword baselines.
+
+**Keywords**: LangChain, Hugging Face, RAG, FAISS, Contract Analysis
+
+---
+
+### [`energy-demand-forecasting`](https://github.com/Stuti-code-dot/energy-demand-forecasting)
+Multi-model time-series forecasting on real-world energy data using **ARIMA, Prophet, and LSTM**. Handles seasonality, lag-based cross-validation, and missing data. Improved RMSE by **~12% vs baseline regression models**.
+
+**Keywords**: Time-Series, Forecasting, ARIMA, LSTM, fbProphet, Cross-Validation
+
+---
+
+## 📬 Let’s Connect
+
+stuti.jain2916@gmail.com  
+[LinkedIn](https://linkedin.com/in/stutijain)  
+[GitHub](https://github.com/Stuti-code-dot)  
