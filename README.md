@@ -25,21 +25,21 @@ Whether it's deploying transformer pipelines for early cancer detection, forecas
 
 ## Featured Repositories
 
-### [`llm-knowledge-distillation`](https://github.com/Stuti-code-dot/llm-knowledge-distillation)
+### llm-knowledge-distillation
 Lightweight GPT-style model implemented via **teacher–student distillation**. Benchmarked decoding strategies (greedy, beam, sampling) on 10M+ tokens to achieve **25% faster inference with <2% accuracy loss**. Focus on inference–efficiency trade-offs.
 
 **Keywords**: Distillation, Hugging Face, Transformers, MiniGPT, PyTorch
 
 ---
 
-### [`legal-docs-rag`](https://github.com/Stuti-code-dot/legal-docs-rag)
+### legal-docs-rag
 Production-ready **retrieval-augmented generation (RAG)** pipeline for 50K+ legal/contract documents. Combines dense vector retrieval with transformer-based Q&A, using FAISS + LangChain. **Reduced retrieval latency by 70%** vs keyword baselines.
 
 **Keywords**: LangChain, Hugging Face, RAG, FAISS, Contract Analysis
 
 ---
 
-### [`energy-demand-forecasting`](https://github.com/Stuti-code-dot/energy-demand-forecasting)
+### energy-demand-forecasting
 Multi-model time-series forecasting on real-world energy data using **ARIMA, Prophet, and LSTM**. Handles seasonality, lag-based cross-validation, and missing data. Improved RMSE by **~12% vs baseline regression models**.
 
 **Keywords**: Time-Series, Forecasting, ARIMA, LSTM, fbProphet, Cross-Validation
