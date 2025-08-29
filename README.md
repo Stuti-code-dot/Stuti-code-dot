@@ -46,6 +46,9 @@ Multi-model time-series forecasting on real-world energy data using **ARIMA, Pro
 
 ---
 
+### Biomedical Image Classification Pipeline
+Built a PyTorch-based image classification system on the **LC25000 histopathology dataset** (lung & colon cancer). Applied **advanced augmentations, transfer learning (ResNet/EfficientNet)**, and cross-validation to achieve **Cross-Entropy loss ≈ 0.42** with strong generalization. Automated data prep, training, and evaluation in a modular pipeline with reproducible configs.
+
 ## 📬 Let’s Connect
 
 stuti.jain2916@gmail.com  
